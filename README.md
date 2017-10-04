@@ -1,5 +1,5 @@
--- Author: Prathamesh Ovalekar 
--- Email: prathamovalekar@gmail.com
+# Author: Prathamesh Ovalekar 
+# Email: prathamovalekar@gmail.com
 
--- FPGA_VHDL
--- VHDL codes
+# FPGA_VHDL
+# VHDL codes
