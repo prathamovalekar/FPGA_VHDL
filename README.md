@@ -1,2 +1,5 @@
-# FPGA_VHDL
-VHDL codes for Nexus 4 DDR
+-- Author: Prathamesh Ovalekar 
+-- Email: prathamovalekar@gmail.com
+
+-- FPGA_VHDL
+-- VHDL codes
